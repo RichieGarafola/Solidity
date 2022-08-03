@@ -16,3 +16,4 @@ contract ArtToken is ERC721Full {
         return tokenId;
     }
 }
+
