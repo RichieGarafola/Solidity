@@ -1,7 +1,7 @@
 # Adding Getters and Setters
 
 ## Instructions
-
+ 
 1. Open the Remix IDE. Either paste the code from the starter file into a new Solidity file or open the `customer_contract.sol` file that you created earlier.
 
 2. Create a `view public` getter function named `getInfo` that resembles the following:
