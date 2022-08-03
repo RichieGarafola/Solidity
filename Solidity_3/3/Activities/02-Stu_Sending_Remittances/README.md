@@ -2,7 +2,7 @@
 
 In this activity, you’ll deploy and run the `CustomerAccount` contract that you created in earlier lessons to send remittances by using smart contracts.
 
-## Background
+## Background 
 
 It’s now time to put your remittances prototype into action! You’ve been asked to present a demo during the next board meeting. So, you decide to run this demo by using the sandboxed environment that the JavaScript VM of the Remix IDE provides.
 
