@@ -1,4 +1,4 @@
-# XP_Token Crowdsale
+# XP_Token Crowdsale 
 
 In this activity, the students will code, deploy, and test the contracts associated with launching a crowdsale to distribute XP tokens.
 
