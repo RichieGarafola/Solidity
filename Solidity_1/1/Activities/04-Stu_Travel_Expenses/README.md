@@ -1,5 +1,5 @@
 # Travel Expenses Contract
-
+ 
 ## Background
 
 You work for a fintech company that offers accounting services to small- and medium-sized businesses. The first application that your company launched uses a smart contract to keep track of travel expenses.
