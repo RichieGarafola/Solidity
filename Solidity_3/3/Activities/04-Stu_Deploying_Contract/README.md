@@ -2,7 +2,7 @@
 
 In this activity, you will extend the functionality of the personal savings smart contract that you were working on in today's class. After coding the updates requested, you will compile the contract; next, you will deploy and test the contract's functions in the Remix IDE local blockchain.
 
-## Instructions
+## Instructions 
 
 Open the [Remix IDE](http://remix.ethereum.org/) and eithre import the `PersonalSavings.sol` starter file or copy and paste its contents into the Remix IDE, then complete the following steps:
 
