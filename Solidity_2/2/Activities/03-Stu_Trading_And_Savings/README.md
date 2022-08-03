@@ -1,5 +1,5 @@
 # Trading and Savings Contracts
-
+ 
 ## Background
 
 You work for a corporate banking firm that’s planning to offer investment options in cryptocurrencies to its customers. As a fintech professional with experience in Solidity programming, you’ve been asked by your manager to create two smart contract prototypes: one that keeps track of trading transactions and another that helps customers manage their personal savings.
