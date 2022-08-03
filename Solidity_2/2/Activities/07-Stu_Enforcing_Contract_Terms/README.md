@@ -1,7 +1,7 @@
 # Enforcing Contract Terms
 
 In this activity, you’ll use the `require` function to enhance the `sendRemittance` function of the `CustomerAccount` contract that you created in an earlier lesson.
-
+ 
 ## Background
 
 You’ve already added functionality to the `CustomerAccount` smart contract that allows a user to send remittances. Now, you want to make sure that only the owner or an authorized recipient can receive remittances. This rule will serve to avoid unauthorized transactions. You'll thus enhance the `sendRemittances` function by using `require`.
