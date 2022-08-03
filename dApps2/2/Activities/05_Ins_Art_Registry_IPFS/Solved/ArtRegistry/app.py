@@ -169,3 +169,6 @@ if st.button("Get Appraisal Reports"):
             st.image(f'https://ipfs.io/ipfs/{image_uri}')
     else:
         st.write("This artwork has no new appraisals")
+
+        
+        
