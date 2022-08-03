@@ -1,4 +1,4 @@
-# XP_Token Mintable
+# XP_Token Mintable 
 
 In this activity, you’ll generate the code for the `XP_Token` contract.
 
