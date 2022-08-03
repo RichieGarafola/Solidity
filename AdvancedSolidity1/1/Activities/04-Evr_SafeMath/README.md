@@ -1,4 +1,4 @@
-# SafeMath
+# SafeMath 
 
 In this activity, you’ll incorporate the SafeMath library into the `ArcadeToken` smart contract. To secure your token, you’ll then use SafeMath functions for all the math operations in the contract.
 
