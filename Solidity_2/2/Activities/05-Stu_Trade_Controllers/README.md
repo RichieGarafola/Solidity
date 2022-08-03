@@ -1,7 +1,7 @@
 # Trade Controllers
 
 In this activity, you’ll gain practical experience with using conditional statements in Solidity. You’ll use basic logical operators and a control flow to build a smart contract that tracks trades on the Ethereum blockchain.
-
+ 
 ## Background
 
 A foreign exchange company has hired you. This company has successfully traded currencies over the last decade. Now that blockchain technology is disrupting finance, they want to expand their business with a cryptocurrency exchange. They want you, as a prominent fintech professional, to help them start trading with Ethereum.
