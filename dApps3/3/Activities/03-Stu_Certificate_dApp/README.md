@@ -1,5 +1,5 @@
 # Building a Certificate dAPP
-
+ 
 In this activity, you’ll create a dApp for the certificate contract.
 
 ## Instructions
