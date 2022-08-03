@@ -1,4 +1,4 @@
-# ERC-20 Arcade Token
+# ERC-20 Arcade Token 
 
 In this activity, you’ll create an `ArcadeToken` smart contract by using the `ERC20` and `ERC20Detailed` smart contracts that the OpenZeppelin library provides.
 
