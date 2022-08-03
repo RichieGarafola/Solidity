@@ -44,3 +44,5 @@ contract ArtRegistry is ERC721Full {
         return artCollection[tokenId].appraisalValue;
     }
 }
+
+
