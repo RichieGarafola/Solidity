@@ -1,7 +1,7 @@
 # Create a Customer Contract
 
 ## Background
-
+ 
 Year after year, immigrants in the United States send billions of dollars to support their families who are living in their home countries/regions. These people use several methods to send the money. But, they use remittance providers, like Western Union, the most frequently.
 
 As a fintech professional, you realize that this presents a potential market for using blockchain technology. Specifically, people will potentially be able to send money all over the world by using cryptocurrencies and paying lower commissions.
