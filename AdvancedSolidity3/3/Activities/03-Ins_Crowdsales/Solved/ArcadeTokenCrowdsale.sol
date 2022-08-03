@@ -38,3 +38,5 @@ contract ArcadeTokenCrowdsaleDeployer {
         token.renounceMinter();
     }
 }
+
+
