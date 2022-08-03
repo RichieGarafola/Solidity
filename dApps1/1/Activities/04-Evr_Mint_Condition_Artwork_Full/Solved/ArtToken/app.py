@@ -91,3 +91,6 @@ if st.button("Display"):
     st.write(f"The tokenURI is {token_uri}")
     st.image(token_uri)
 
+
+    
+    
