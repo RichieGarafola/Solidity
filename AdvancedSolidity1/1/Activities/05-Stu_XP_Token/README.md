@@ -1,4 +1,4 @@
-# XP Token
+# XP Token 
 
 In this activity, you’ll use your knowledge of Solidity to build an `XP_Token` smart contract.
 
