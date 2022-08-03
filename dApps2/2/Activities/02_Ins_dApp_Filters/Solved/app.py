@@ -82,3 +82,6 @@ if st.button("Get Appraisal Reports"):
         report_dictionary = dict(appraisal)
         print(report_dictionary)
         print(report_dictionary["args"])
+
+        
+        
