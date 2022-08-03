@@ -1,5 +1,5 @@
 # Arcade Token
-
+ 
 In this activity, you’ll use the mapping data structure to build a token smart contract for use by an arcade&mdash;or by any other business that you’d like!
 
 This contract will allow you, as the business owner, to collect ether in exchange for tokens that users can spend at your business.
