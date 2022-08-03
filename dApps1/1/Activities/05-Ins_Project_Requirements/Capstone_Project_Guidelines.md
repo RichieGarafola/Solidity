@@ -1,5 +1,6 @@
 # Capstone Project Guidelines
 
+
 This week, you will begin work on your final project of the boot camp! You can choose any topic from any section of the course for this capstone project.
 
 Project examples include:
