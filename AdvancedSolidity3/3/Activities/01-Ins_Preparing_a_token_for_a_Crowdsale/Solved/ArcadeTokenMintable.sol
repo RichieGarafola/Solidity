@@ -16,3 +16,4 @@ contract ArcadeToken is ERC20, ERC20Detailed, ERC20Mintable {
         mint(msg.sender, initial_supply);
     }
 }
+
