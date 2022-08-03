@@ -54,3 +54,5 @@ if st.button("Register Artwork"):
     st.write(dict(receipt))
 st.markdown("---")
 
+
+
