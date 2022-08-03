@@ -64,3 +64,5 @@ if st.button("Display Certificate"):
     # Get the certificate's metadata
     certificate_uri = contract.functions.tokenURI(certificate_id).call()
     st.write(f"The certificate's tokenURI metadata is {certificate_uri}")
+    
+    
