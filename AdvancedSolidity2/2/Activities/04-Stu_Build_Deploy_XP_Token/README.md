@@ -1,6 +1,6 @@
 # Build and Deploy XP_Token
 
-## Instructions
+## Instructions 
 
 Note that the starter code contains the basic `XP_Token` contract structure and imports of the `ERC20` and `ERC20Detailed` contracts that implement the ERC-20 standards.
 
